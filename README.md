@@ -1,2 +1,3 @@
 # first-year
-all codes of my first year 
+All codes of my first year.
+Author: Ansh Joshi
