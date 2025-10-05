@@ -56,6 +56,9 @@ int main() {
     printf("x >> 1 = %d (", x >> 1);
     printBinary(x >> 1);
     printf(")\n");
+    printf("x >> 2 = %d (", x >> 2);
+    printBinary(x >> 2);
+    printf(")\n");
 
     printf("y >> 1 = %d (", y >> 1);
     printBinary(y >> 1);
